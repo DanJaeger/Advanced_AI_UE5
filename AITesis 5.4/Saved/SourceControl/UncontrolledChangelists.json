@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis 5.4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/Blueprints/Player/BP_PlayerController.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/Characters/Mannequins/Animations/ABP_Player.uasset",
@@ -237,7 +239,6 @@
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/Characters/Animations/Attacking/ShootArrow/SaveArrow.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/Characters/Animations/Attacking/ShootArrow/SaveArrow_Montage.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/Characters/Animations/React/SwordHitReact_Montage.uasset",
-				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis 5.4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/ParagonSparrow/Characters/Heroes/Sparrow/Meshes/Sparrow_Skeleton.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/ParagonSparrow/Characters/Heroes/Sparrow/SparrowPlayerCharacter.uasset",
 				"C:/Users/USUARIO/Documents/Unreal Projects/Advanced_AI/AITesis/Content/ParagonSparrow/Characters/Heroes/Sparrow/AnimationTestMap.umap",
